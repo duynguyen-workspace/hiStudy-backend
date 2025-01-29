@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This project aims to develop a comprehensive e-learning platform tailored to connect students and educators in an interactive online environment. The application facilitates robust learning experiences by allowing educators to create and manage courses, upload diverse learning materials, and directly engage with students. Students can enroll in courses, actively participate through comments, rate course content, and utilize secure purchasing options for course enrollment.
 
 ## Development Journal
 
