@@ -26,6 +26,32 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Development Journal
+
+This section records my daily contribution entries to the project source code.
+
+<table>
+  <thead>
+    <tr>
+      <th>Day</th>
+      <th>Record Date</th>
+      <th>Actions</th>
+      <th>Challenges</th>
+      <th>Thoughts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>29/01/2025</td>
+      <td>- Initialized the project repository with GitHub.<br>- Set up the main project structure.<br>- Create ERD and Relational Schema diagrams</td>
+      <td>No critical challenge occured yet</td>
+      <td>Excited about the project's potential and looking forward for the next development stage</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Project setup
 
 ```bash
