@@ -32,7 +32,7 @@ This section records my daily contribution entries to the project source code.
 
 <table>
   <thead>
-    <tr>
+    <tr style="background: #000000; color: white">
       <th>Day</th>
       <th>Record Date</th>
       <th>Actions</th>
