@@ -32,8 +32,8 @@ This section records my daily contribution entries to the project source code.
 
 <table>
   <thead>
-    <tr">
-      <th style="background: #000000; color: white;">Day</th>
+    <tr style="background-color: black; color: white;">
+      <th>Day</th>
       <th>Record Date</th>
       <th>Actions</th>
       <th>Challenges</th>
