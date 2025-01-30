@@ -26,32 +26,6 @@
 
 This project aims to develop a comprehensive e-learning platform tailored to connect students and educators in an interactive online environment. The application facilitates robust learning experiences by allowing educators to create and manage courses, upload diverse learning materials, and directly engage with students. Students can enroll in courses, actively participate through comments, rate course content, and utilize secure purchasing options for course enrollment.
 
-## Development Journal
-
-This section records my daily contribution entries to the project source code.
-
-<table>
-  <thead>
-    <tr style="background-color: black; color: white;">
-      <th>Day</th>
-      <th>Record Date</th>
-      <th>Actions</th>
-      <th>Challenges</th>
-      <th>Thoughts</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>01</td>
-      <td>29/01/2025</td>
-      <td>- Initialized the project repository with GitHub.<br>- Set up the main project structure.<br>- Create ERD and Relational Schema diagrams</td>
-      <td>No critical challenge occured yet</td>
-      <td>Excited about the project's potential and looking forward for the next development stage</td>
-    </tr>
-  </tbody>
-</table>
-
-
 ## Project setup
 
 ```bash
@@ -113,6 +87,31 @@ Check out a few resources that may come in handy when working with NestJS:
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+
+## Development Journal
+
+This section records my daily contribution entries to the project source code.
+
+<table>
+  <thead>
+    <tr style="background-color: black; color: white;">
+      <th>Day</th>
+      <th>Record Date</th>
+      <th>Actions</th>
+      <th>Challenges</th>
+      <th>Thoughts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>29/01/2025</td>
+      <td>- Initialized the project repository with GitHub.<br>- Set up the main project structure.<br>- Create ERD and Relational Schema diagrams</td>
+      <td>No critical challenge occured yet</td>
+      <td>Excited about the project's potential and looking forward for the next development stage</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Stay in touch
 
