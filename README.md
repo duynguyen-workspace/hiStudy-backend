@@ -118,9 +118,23 @@ This section records my daily contribution entries to the project source code.
     <tr>
       <td>01</td>
       <td>29/01/2025</td>
-      <td>- Initialized the project repository with GitHub.<br>- Set up the main project structure.<br>- Create ERD and Relational Schema diagrams</td>
+      <td>- Initialized the project repository with GitHub.<br>- Set up the main project structure.</td>
       <td>No critical challenge occured yet</td>
       <td>Excited about the project's potential and looking forward for the next development stage</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>30/01/2025</td>
+      <td>Create ERD and Relational Schema diagrams</td>
+      <td>No critical challenge occured yet</td>
+      <td>Analysing the relationship between entities and also the features requirement is time-consuming but worth to consider</td>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>31/01/2025</td>
+      <td>- Setup Postgres database with Docker<br>- Create and Insert queries for database</td>
+      <td>No critical challenge occured yet</td>
+      <td>Learn to adopt the class-inheritance concept from relational schema to Postgres Database</td>
     </tr>
   </tbody>
 </table>
