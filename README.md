@@ -32,9 +32,12 @@ This project aims to develop a comprehensive e-learning platform tailored to con
 
 ## Project setup
 
+Install node_modules
 ```bash
 $ yarn install
 ```
+
+Setup Postgres Database
 
 ```bash
 # setup Postgres Database with Docker (and your own Database Management Tool, for example: TablePlus)
