@@ -26,10 +26,19 @@
 
 This project aims to develop a comprehensive e-learning platform tailored to connect students and educators in an interactive online environment. The application facilitates robust learning experiences by allowing educators to create and manage courses, upload diverse learning materials, and directly engage with students. Students can enroll in courses, actively participate through comments, rate course content, and utilize secure purchasing options for course enrollment.
 
+## Relational Schema
+<img src="./src/assets/screenshots/relational-schema.png" alt="hiStudy-relational-schema" />
+
+
 ## Project setup
 
 ```bash
 $ yarn install
+```
+
+```bash
+# setup Postgres Database with Docker (and your own Database Management Tool, for example: TablePlus)
+$ docker run --name some-postgres -e POSTGRES_PASSWORD=123456 -p 5432:5432 -d postgres
 ```
 
 ## Compile and run the project
